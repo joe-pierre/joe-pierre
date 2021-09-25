@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Symfony, Flutter and Python 😇
 - 👯 I’m looking for opportunities to work on Web or Mobile App projects
-- 🥅 2021 Goals: Build many Symfony and Flutter projects
+- 🥅 2021 Goals: Build many projects
 - ⚡ I like having fun with friends ⚽ 🏖️ 🎮 
 
 ### Top languages ✨

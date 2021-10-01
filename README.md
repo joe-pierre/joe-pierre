@@ -4,7 +4,7 @@
 
 ## I'm a Geomatician and Developer !!
 
-- 🌱 I’m currently learning React (I lightly know about symfony and python) 😇
+- 🌱 I’m currently learning React (I lightly know about symfony, Flutter and python) 😇
 - 👯 I’m looking for opportunities to work on Web or Mobile App projects
 - 🥅 2021 Goals: Build many projects
 - ⚡ I like having fun with friends ⚽ 🏖️ 🎮 

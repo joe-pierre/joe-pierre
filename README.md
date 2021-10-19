@@ -10,9 +10,9 @@
 <br/>
 
 <h1 align="left">😃 About me !</h1>
-<p  align="left">
-My name is Joseph Pierre GOMIS, I am a <h2>"codeLover(🐘, js, ☕, 🐍);"</h2> living in Senegal.
-</p>
+<h3  align="left">
+My name is Joseph Pierre GOMIS, I am a <strong>"codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal.
+</h3>
 
 <br/>
 

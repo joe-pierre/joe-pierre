@@ -1,4 +1,4 @@
-### 😃 Hi there, I'm Joe Pierre - aka Plynthiou 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joe Pierre - aka Plynthiou.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PLYNTHIOU?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPLYNTHIOU&screen_name=PLYNTHIOU)
 
@@ -9,11 +9,18 @@
 
 ## I'm a Geomatician and Developer !!
 
+________
+<h1 align="left">😃 About me !</h1>
+<p  align="left">
+<strong>My name is Joseph Pierre GOMIS, I am a codeLover(🐘, js, ☕, 🐍); living in Senegal.</strong>
+</p>
+
+<br/>
+
 - 🌱 I’m currently learning React (I lightly know about symfony, Flutter and python) 😇
-- 👯 I’m looking for opportunities to work on Web or Mobile App projects
-- 🥅 2021 Goals: Build many projects
 - ⚡ I like having fun with friends ⚽ 🏖️ 🎮 
 
+________
 ### Top languages ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre)](https://github.com/joe-pierre/github-readme-stats)

@@ -6,13 +6,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joe-pierre/count.svg" />
 </p>
-
-## I'm a Geomatician and Developer !!
-
 ________
 <h1 align="left">😃 About me !</h1>
 <p  align="left">
-<strong>My name is Joseph Pierre GOMIS, I am a codeLover(🐘, js, ☕, 🐍); living in Senegal.</strong>
+My name is Joseph Pierre GOMIS, I am a <strong>" codeLover(🐘, js, ☕, 🐍); "</strong> living in Senegal.
 </p>
 
 <br/>

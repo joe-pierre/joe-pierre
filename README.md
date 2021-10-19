@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joe Pierre - aka Plynthiou.
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joe Pierre - aka Plynthiou.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PLYNTHIOU?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPLYNTHIOU&screen_name=PLYNTHIOU)
 
@@ -6,7 +6,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joe-pierre/count.svg" />
 </p>
-________
+
+<br/>
+
 <h1 align="left">😃 About me !</h1>
 <p  align="left">
 My name is Joseph Pierre GOMIS, I am a <strong>" codeLover(🐘, js, ☕, 🐍); "</strong> living in Senegal.
@@ -68,8 +70,8 @@ ________
   
 ### Connect with me:
 
-[<img align="left" alt="PLYNTHIOU | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Joe Pierre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="PLYNTHIOU | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Joe Pierre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 

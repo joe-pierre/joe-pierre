@@ -37,8 +37,8 @@
 <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
   
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css.svg"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
@@ -62,6 +62,12 @@
 <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/terminal.svg"/>
+  
+<br />
+<br />
+
+---
+
 
 ________
 <br>

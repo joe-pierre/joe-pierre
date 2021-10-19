@@ -18,12 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre)](https://github.com/joe-pierre/github-readme-stats)
 
-### Connect with me:
-
-[<img align="left" alt="PLYNTHIOU | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Joe Pierre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -32,8 +26,6 @@
 <p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
 
 <div align="center">
-  
-
 <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
   
@@ -66,12 +58,16 @@
 <br />
 <br />
 
----
-
-
 ________
 <br>
 <br>
+  
+### Connect with me:
+
+[<img align="left" alt="PLYNTHIOU | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Joe Pierre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>

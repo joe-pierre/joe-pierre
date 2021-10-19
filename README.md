@@ -2,6 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PLYNTHIOU?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPLYNTHIOU&screen_name=PLYNTHIOU)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/joe-pierre/count.svg" />
+</p>
+
 ## I'm a Geomatician and Developer !!
 
 - 🌱 I’m currently learning React (I lightly know about symfony, Flutter and python) 😇

@@ -55,7 +55,6 @@ ________
 <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/scss.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
 

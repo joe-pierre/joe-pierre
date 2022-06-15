@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joe Pierre - aka Plynthiou.
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Joe Pierre - aka Plynthiou.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PLYNTHIOU?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPLYNTHIOU&screen_name=PLYNTHIOU)
 
@@ -16,7 +16,7 @@ My name is Joseph Pierre GOMIS, I am a <strong>"codeLover(🐘, js, ☕, 🐍);"
 
 <br/>
 
-- 🌱 I’m currently learning React (I lightly know about symfony, Flutter and python) 😇
+- 🌱 I’m currently learning Symfony (I lightly know about React, Flutter and python) 😇
 - ⚡ I like having fun with friends ⚽ 🏖️ 🎮 
 
 ________

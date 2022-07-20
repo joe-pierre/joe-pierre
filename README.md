@@ -24,7 +24,6 @@ ________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre)](https://github.com/joe-pierre/github-readme-stats)
 
-
 ### Languages and Tools:
 
 <br/>
@@ -37,32 +36,25 @@ ________
   
 <img width="40"  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="40"  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-
+<img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
+  
+<img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
+  
 <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/dart.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-  
 <img width="40" src="https://cdn.svgporn.com/logos/flutter.svg"/>
+  
+<img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
+
+<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/netlify.svg"/>
-
 <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
-
-<img width="40" src="https://cdn.svgporn.com/logos/terminal.svg"/>
   
 <br />
 <br />
-
 ________
 <br>
 <br>

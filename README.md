@@ -11,7 +11,7 @@
 
 <h1 align="left">😃 About me !</h1>
 <h3  align="left">
-My name is Joseph Pierre GOMIS, I am a <strong>"codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal.
+I am a <strong>"codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal.
 </h3>
 
 <br/>

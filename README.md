@@ -10,7 +10,7 @@ ________
 <div align="center">
   <div align=left>
     <a href="https://joe-pierre.com">
-      <img width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre"/>
+      <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre"/>
     </a>
   </div>
   <div align=right>

@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1rem">, my name is Joseph Pierre Gomis friends call me Joe Pierre
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, my name is Joseph Pierre Gomis friends call me Joe Pierre
 </h1>
 
 <br/>

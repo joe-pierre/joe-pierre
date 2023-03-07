@@ -9,7 +9,7 @@ ________
 ### Top languages ✨
 <div align="center">
     <a href="https://joe-pierre.com">
-      <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre"/>
+      <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre"/>
     </a>
     <a href="https://joe-pierre.com">
       <img width="400" src="https://github-readme-stats.vercel.app/api?username=joe-pierre&show_icons=true&theme=tokyonight&count_private=true" />

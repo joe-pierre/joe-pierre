@@ -7,17 +7,21 @@ I am a <strong>"codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal. I�
 
 ________
 ### Top languages ✨
-<p align="center">
-<a href="https://joe-pierre.com">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre"/>
-</a>
-<a href="https://joe-pierre.com">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=joe-pierre&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://joe-pierre.com">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
-</a>
-</p>
+<div align="center">
+  <div align=left>
+    <a href="https://joe-pierre.com">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre"/>
+    </a>
+  </div>
+  <div align=right>
+    <a href="https://joe-pierre.com">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=joe-pierre&show_icons=true&theme=tokyonight&count_private=true" />
+    </a>
+    <a href="https://joe-pierre.com">
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
+    </a>
+   </div>
+</div>
 
 ### Languages and Tools:
 <p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	

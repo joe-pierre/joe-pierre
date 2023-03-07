@@ -1,13 +1,24 @@
 <h1 align="left">😃 About me !</h1>
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, my name is Joseph Pierre Gomis friends call me Joe Pierre.
-<br>
-I am a <strong>"codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal. I’m currently 🌱 learning Symfony. I lightly know about React, Flutter and python. I like having fun with friends.
 </h2>
+<br>
+<p>
+I am a <strong>"codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal. I’m currently 🌱 learning Symfony. I lightly know about React, Flutter and python. I like having fun with friends.
+</p>
 
 ________
 ### Top languages ✨
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre)](https://github.com/joe-pierre/github-readme-stats)
+<p align="center">
+<a href="https://joe-pierre.com">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=joe-pierre&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://joe-pierre.com">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=joe-pierre&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://joe-pierre.com">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
+</a>
+</p>
 
 ### Languages and Tools:
 <p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	

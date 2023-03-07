@@ -15,7 +15,7 @@ ________
       <img width="400" src="https://github-readme-stats.vercel.app/api?username=joe-pierre&show_icons=true&theme=tokyonight&count_private=true" />
     </a>
     <a href="https://joe-pierre.com">
-      <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
+      <img width="350" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
     </a>
 </div>
 

@@ -6,10 +6,8 @@
 <h1 align="left">😃 About me !</h1>
 <p align="left">I am a <strong>"codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal.</p>
 
-<p>
 - 🌱 I’m currently learning Symfony (I lightly know about React, Flutter and python) 😇
 - ⚡ I like having fun with friends ⚽ 🏖️ 🎮
- <p/>
 
 ________
 ### Top languages ✨
@@ -21,27 +19,23 @@ ________
 
 <div align="center">
   <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
+  <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/> 
+ 
+  <img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
   
   <img width="40"  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img width="40"  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-  
-  <img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
-  
-  <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
+ 
+  <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 
   <img width="40" src="https://cdn.svgporn.com/logos/dart.svg"/>
   <img width="40" src="https://cdn.svgporn.com/logos/flutter.svg"/>
   
-  <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-
-  <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/react.svg"/>
-
-  <img width="40" src="https://cdn.svgporn.com/logos/netlify.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
-<div/>
+  <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/> 
+ 
+  <!--<img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>-->
+</div>
   
   
 ### Connect with me:

@@ -2,7 +2,7 @@
 <h2 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Joseph Pierre Gomis, but friends call me <i>Joe Pierre</i>.
 </h2>
 <p>
-I am a <strong>codeLover(🐘, js, ☕, 🐍);</strong> based in Senegal. Currently, I am 🌱 exploring Symfony. My skillset includes a working knowledge of Javascript, Python, Flutter. I am very passionate about coding and eager to learn and grow in the world of programming.
+I am a <strong>codeLover(🐘, js, ☕, 🐍);</strong> based in Senegal. Currently, I am 🌱 exploring Symfony. My skillset includes a working knowledge of PHP, Javascript, Python, Flutter. I am very passionate about coding and eager to learn and grow in the world of programming.
 </p>
 
 ________

@@ -1,8 +1,8 @@
 <h1 align="left">😃 About me !</h1>
-<h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> my name is Joseph Pierre Gomis, friends call me <i>Joe Pierre</i>.
+<h2 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Joseph Pierre Gomis, but friends call me <i>Joe Pierre</i>.
 </h2>
 <p>
-I am a <strong>"$this->codeLover(🐘, js, ☕, 🐍);"</strong> living in Senegal. I’m currently 🌱 learning Symfony. I lightly know about Javascript, Python and Java. I like having fun with friends.
+I am a <strong>codeLover(🐘, js, ☕, 🐍);</strong> based in Senegal. Currently, I am 🌱 exploring Symfony. My skillset includes a working knowledge of Javascript, Python, Flutter. I am very passionate about coding and eager to learn and grow in the world of programming.
 </p>
 
 ________

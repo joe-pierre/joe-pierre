@@ -1,50 +1,51 @@
-<h1 align="left">😃 About me !</h1>
-<h2 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Joseph Pierre Gomis, but friends call me <i>Joe Pierre</i>.
-</h2>
-<p>
-I am a <strong>codeLover(🐘, js, ☕, 🐍);</strong> based in Senegal. Currently, I am 🌱 exploring Symfony. My skillset includes a working knowledge of PHP, Javascript, Python and Flutter. I am very passionate about coding and eager to learn and grow in the world of programming.
-</p>
+<h2 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Joseph Pierre Gomis</h2>
 
-________
-### Top languages ✨
-<div align="center">
-    <a href="https://joe-pierre.com" target="_blank">
-      <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-pierre"/>
-    </a>
-    <a href="https://joe-pierre.com" target="_blank">
-      <img width="350" src="https://github-readme-stats.vercel.app/api?username=joe-pierre&show_icons=true&theme=tokyonight&count_private=true" />
-    </a>
-    <a href="https://joe-pierre.com" target="_blank">
-      <img width="350" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
-    </a>
-</div>
+Problem-solving oriented developer.
+Based in Dakar, Senegal 🇸🇳. 3+ years of experience in web development.
 
-### Languages and Tools:
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
+## About me
 
-<div align="center">
-  <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/> 
- 
-  <img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
-  
-  <img width="40"  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img width="40"  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
- 
-  <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+Above all, I am **someone who loves discovering 😃 and learning new things and new technologies**, 
+which naturally enables me to find solutions to every challenge.
 
-  <img width="40" src="https://cdn.svgporn.com/logos/dart.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/flutter.svg"/>
-  
-  <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/> 
- 
-  <!--<img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>-->
-</div>
-  
-  
-### 📞 Connect with me:
-<p align="left">
-<a href="https://twitter.com/PLYNTHIOU"><img src="https://img.shields.io/badge/TWITTER-@PLYNTHIOU-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
-<a href="https://instagram.com/plynthiou"><img src="https://img.shields.io/badge/INSTAGRAM-@plynthiou-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
-</p>
+I am comfortable with: **PHP and Symfony**, tools with which I have completed personal projects and
+deployed applications in production. But I am equally comfortable with Flutter/Dart and other stacks as needed.
+
+Curious, thorough, and problem-solving oriented.
+
+## Skills
+
+**Languages**: PHP, Dart, JavaScript, Python, Java
+
+**Comfortable with**: PHP & Symfony
+
+**Also experienced in**: HTML5, CSS3, MySQL, Bootstrap, Tailwind CSS, 
+Flutter, WordPress, Docker (learning), Linux
+
+## Key Projects
+
+E-learning Platform (Piarist Schools of West Africa)
+- **Tech**: Symfony, Doctrine ORM, MySQL
+- **Features**: Authentication, user management, file upload
+- **Status**: Decommissioned
+- **Demo links**: [video 1](https://youtu.be/FgISND1OjtQ) | [video 2](https://youtu.be/RU-m6cDgm00) | [video 3](https://youtu.be/uE8M_R50HSE) 
+
+Application Management Application
+- **Tech**: Symfony, Doctrine ORM, MySQL
+- **Features**: EasyAdmin, Full CRUD, Email sending
+- **Status**: Side project
+- **Demo link**: [demo video](https://www.youtube.com/watch?v=cAYi2YkRCEE)
+
+Digital Press Site (Newspreneuriat)
+- **Tech**: WordPress
+- **Link**: [newspreneuriat.com](https://newspreneuriat.com/)
+
+## Education
+
+- **Bachelor's degree in Computer Networks and Systems** (2019-2021) - Catholic University of West Africa
+- **Certificates**: HTML5/CSS3, PHP/MySQL, Java
+
+## Contact
+
+📧 gomisjoepierre@gmail.com | hello@joe-pierre.com  
+​🌐​ [joe-pierre.com](https://joe-pierre.com)
